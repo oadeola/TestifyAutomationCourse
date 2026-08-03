@@ -93,3 +93,25 @@ if (userAge >= 18) {
 
 Conditional learning ends here*/
 
+//Task 6
+// const number = 21;
+
+// if (number % 2 === 0) {
+//     console.log('The number is even.');
+// } else {
+//     console.log('The number is odd.');
+
+// }
+
+/*If else if learning starts here
+const userAge = 12;
+
+if (userAge >= 18 && userAge <= 65) {
+    console.log('You are an adult.')
+} else if (userAge < 18) {
+     console.log('You are not an adult.')
+} else {
+    console.log('You are a senior citizen.')
+}
+
+If else if learning ends here*/
