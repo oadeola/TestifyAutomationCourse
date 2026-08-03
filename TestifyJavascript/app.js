@@ -1,4 +1,4 @@
-const number = 19;
+const number = 21;
 
 if (number % 2 === 0) {
     console.log('The number is even.');
