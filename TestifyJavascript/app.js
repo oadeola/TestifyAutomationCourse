@@ -1,13 +1,16 @@
-const side1 = 3
-const side2 = 2
-const side3 = 4
+// for (let star = 10; star <=100; star++) {
+//     if(star ===1){
+//          console.log(star + ' star')
+//     }
+//     else {
+//     console.log(star + ' stars')
+//     }
+// }
 
-if (side1 === side2 && side2 === side3) {
-    console.log('Equilateral Triangle')
+
+for (let number = 1; number <= 20; number = number + 1) {
+    if (number % 2 === 1) {
+        console.log(number + ' is an odd number')
+    }
+
 }
-else if (side1 ===side2 || side2 === side3 || side1 === side3) {
-    console.log('Isosceles Triangle')
-}
- else {
-    console.log('Scalene Triangle')
- }
