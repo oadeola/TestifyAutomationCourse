@@ -1,6 +1,7 @@
-function calculateAreaOfRectangle(length, width) {
+function calculateAreaOfRectangle2(length, width) {
     const area = length * width;
-    console.log(area);
+    return area;
 }
 
-calculateAreaOfRectangle(4, 12);
+const area = calculateAreaOfRectangle2(30, 13);
+console.log('Area of rectangle is: ' + area);
