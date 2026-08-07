@@ -1,4 +1,4 @@
 //Task 11
-const myFriends = ['Sharon', 'Ben', 'Emily', 'Bookie', 'Frank'];
+const myFriends = ['Sharon', 'Benjamin', 'Emily', 'Bookie', 'Frank'];
 
 console.log(myFriends);
