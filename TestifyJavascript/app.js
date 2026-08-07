@@ -1,7 +1,4 @@
-function calculateAreaOfRectangle2(length, width) {
-    const area = length * width;
-    return area;
-}
+//Task 11
+const myFriends = ['Sharon', 'Ben', 'Emily', 'Bookie', 'Frank'];
 
-const area = calculateAreaOfRectangle2(30, 13);
-console.log('Area of rectangle is: ' + area);
+console.log(myFriends);
