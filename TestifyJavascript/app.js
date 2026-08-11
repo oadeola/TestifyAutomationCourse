@@ -1,7 +1,13 @@
-const myFriends = ['Sharon', 'Benjamin', 'Emily', 'Bookie', 'Frank'];
-
-console.log(myFriends);
-
-//Task12 - Pick your best Friend.
-const bestFriend = myFriends[0];
-console.log('My best friend is ' + bestFriend);
+//Task 13 - My Personal Library
+const books = {
+    title: "The Temptation",
+    description: "A novel about love and betrayal",
+    numberOfPages: 255,
+    author: "Colleen Hoover",
+    reading: true,
+}
+console.log(books.title)
+console.log(books.description)
+console.log(books.numberOfPages)
+console.log(books['author'])
+console.log(books['reading'])
