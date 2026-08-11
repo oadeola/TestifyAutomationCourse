@@ -23,20 +23,3 @@ console.log(books.numberOfPages)
 console.log(books['author'])
 console.log(books['readingStatus'])
 
-
-
-const door = {
-    isOpen: false,
-    material: 'wood',
-    height: 9,
-    toggleDoor: function(){
-        if (door.isOpen === true) {
-            door.isOpen = false
-        } else {
-            door.isOpen = true
-        }
-    }
-}
-// door.toggleDoor();
-
-// console.log(door.toggleDoor());
