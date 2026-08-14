@@ -1,5 +1,5 @@
 //Challenge 1: Calculate the sum of numbers within an array
-const sumArray = [2, 4, 5, 6, 10];
+const sumArray = [2, 4, 5, 6, 10, 15];
 
 let sum = 0;
 
