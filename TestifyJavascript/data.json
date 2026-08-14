@@ -1,0 +1,9 @@
+{
+    "name": "vehicle",
+    "type": "car",
+    "color": "pink",
+    "wheels": 4,
+    "parts" : [
+        "tires","engine", "doors", "side mirrors"
+    ]    
+}

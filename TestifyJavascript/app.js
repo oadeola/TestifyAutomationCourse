@@ -1,45 +1,10 @@
-//Task 15 - My Personal Library 3
+//Challenge 1: Calculate the sum of numbers within an array
+const sumArray = [2, 4, 5, 6, 10];
 
-const books = [
-    {
-        title: "The Temptation",
-        description: "A novel about love and betrayal",
-        numberOfPages: 255,
-        author: "Colleen Hoover",
-        readingStatus: false,
-   },
-     {
-        title: "Child of the Morning",
-        description: "A novel about love and betrayal",
-        numberOfPages: 255,
-        author: "Adetomi Adeyemi",
-        readingStatus: true,
-   },
-     {
-        title: "The Miracle Morning",
-        description: "A novel about peace and happiness",
-        numberOfPages: 485,
-        author: "Sue Knight",
-        readingStatus: false,
-   },
-     {
-        title: "Mermaid's chair",
-        description: "A novel about faith and love",
-        numberOfPages: 1025,
-        author: "Ben Harris",
-        readingStatus: true,
-   },
-     {
-        title: "Middle Daughter",
-        description: "Grief, love, and family",
-        numberOfPages: 322,
-        author: "Chika Unigwe",
-        readingStatus: false,
-   },
+let sum = 0;
 
-]
-for (let i = 0; i < books.length; i++) {
-    if (books[i].readingStatus === true) {
-        console.log(books[i].title + " (" + books[i].description + ")" + " by " + books[i].author + " with " + books[i].numberOfPages + " pages")
-    }
+for (let i = 0; i < sumArray.length; i++) {
+  sum += sumArray[i];
 }
+
+console.log('Sum of the numbers in the array:', sum); 
