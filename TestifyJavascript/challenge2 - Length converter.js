@@ -5,4 +5,4 @@ function lengthConverter(feet) {
   const miles = feet / 5280;
   return { inches, yards, miles };
 }
-console.log(lengthConverter(12)); 
+console.log(lengthConverter(24)); 
