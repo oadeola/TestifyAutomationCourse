@@ -1,7 +1,7 @@
 /*Concatenation learning starts here
 const myFavoriteLanguage = 'Javascript'
 
-const myAge = 25
+const myAge = 28
 const name = 'Adeola Oni'
 const sentence = 'My name is ' + name + ' and I am ' + myAge + ' years old. My favorite programming language is ' + myFavoriteLanguage + '.'
 
@@ -447,6 +447,5 @@ const myObject = {
 }
 
 const json =JSON.stringify(myObject)
-
 console.log(JSON.parse(json))
 */
