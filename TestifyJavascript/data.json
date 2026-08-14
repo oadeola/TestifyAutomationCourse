@@ -2,7 +2,7 @@
     "name": "vehicle",
     "type": "car",
     "color": "pink",
-    "wheels": 4,
+    "wheels": 6,
     "parts" : [
         "tires","engine", "doors", "side mirrors"
     ]    
