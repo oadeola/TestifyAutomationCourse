@@ -1,0 +1,31 @@
+{
+  "name": "Task: Connect with client",
+  "duration": 600000,
+  "taskTypeId": "61a5cd07ca1347c82306ad09",
+  "date": "2021-11-01T17:44:54.668Z",
+  "notes": "In communication with client for resolution of queries.",
+  "done": false,
+  "assignToId": "5faab4b7f195bb3c4c31e62a",
+  "contactsIds": [
+    1,
+    2,
+    3
+  ],
+  "dealsIds": [
+    "61a5ce58c5d4795761045990",
+    "61a5ce58c5d4795761045991",
+    "61a5ce58c5d4795761045992"
+  ],
+  "companiesIds": [
+    "61a5ce58c5d4795761045990",
+    "61a5ce58c5d4795761045991",
+    "61a5ce58c5d4795761045992"
+  ],
+  "reminder": {
+    "value": 10,
+    "unit": "minutes",
+    "types": [
+      "email"
+    ]
+  }
+}

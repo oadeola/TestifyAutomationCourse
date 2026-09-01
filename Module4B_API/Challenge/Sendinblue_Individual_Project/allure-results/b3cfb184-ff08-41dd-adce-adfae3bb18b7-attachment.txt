@@ -1,0 +1,49 @@
+{
+  "name": "Newsletter - May 2017",
+  "sender": {
+    "name": "Mary from MyShop",
+    "email": "newsletter@myshop.com",
+    "id": 3
+  },
+  "tag": "Newsletter",
+  "htmlContent": "<!DOCTYPE html> <html> <body> <h1>Confirm you email</h1> <p>Please confirm your email address by clicking on the link below</p> </body> </html>",
+  "htmlUrl": "https://html.domain.com",
+  "templateId": 71900287,
+  "scheduledAt": "Excepteur molli",
+  "subject": "Discover the New Collection !",
+  "replyTo": "support@myshop.com",
+  "toField": "{FNAME} {LNAME}",
+  "recipients": {
+    "exclusionListIds": [
+      8,
+      8
+    ],
+    "listIds": [
+      32,
+      32
+    ]
+  },
+  "attachmentUrl": "https://attachment.domain.com",
+  "inlineImageActivation": true,
+  "mirrorActive": true,
+  "footer": "[DEFAULT_FOOTER]",
+  "header": "[DEFAULT_HEADER]",
+  "utmCampaign": "NL_05_2017",
+  "params": {
+    "veniam_8": {},
+    "nullac": {},
+    "cillum3c": {}
+  },
+  "sendAtBestTime": true,
+  "abTesting": true,
+  "subjectA": "Discover the New Collection!",
+  "subjectB": "Want to discover the New Collection?",
+  "splitRule": 50,
+  "winnerCriteria": "open",
+  "winnerDelay": 50,
+  "ipWarmupEnable": true,
+  "initialQuota": 3000,
+  "increaseRate": 70,
+  "unsubscriptionPageId": "62cbb7fabbe85021021aac52",
+  "updateFormId": "6313436b9ad40e23b371d095"
+}

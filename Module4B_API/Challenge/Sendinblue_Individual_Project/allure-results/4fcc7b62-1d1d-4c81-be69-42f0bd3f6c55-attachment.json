@@ -1,0 +1,16 @@
+{
+    "Date": "Tue, 01 Sep 2026 02:12:37 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "50",
+    "Connection": "keep-alive",
+    "access-control-allow-credentials": "true",
+    "sib-request-id": "27c6ce6f-6024-94a7-94d1-89445edc761b",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "*",
+    "access-control-allow-methods": "PUT, POST, GET, DELETE, PATCH, OPTIONS",
+    "x-envoy-upstream-service-time": "0",
+    "server": "cloudflare",
+    "cf-cache-status": "DYNAMIC",
+    "Cf-Apo-Via": "origin,host",
+    "CF-RAY": "a340c046ed4af110-CDG"
+}

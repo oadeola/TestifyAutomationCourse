@@ -1,0 +1,16 @@
+{
+  "text": "In communication with client for resolution of queries.",
+  "contactIds": [
+    247,
+    1,
+    2
+  ],
+  "dealIds": [
+    "61a5ce58c5d4795761045990",
+    "61a5ce58c5d4795761045991"
+  ],
+  "companyIds": [
+    "61a5ce58c5d4795761045990",
+    "61a5ce58c5d4795761045991"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "Accept": "application/json",
+    "api-key": "{{vault:api-key1}}",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "360f8136-cb53-4dd8-bc38-6af9eb1be4e9",
+    "Host": "api.sendinblue.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

@@ -1,0 +1,10 @@
+{
+  "credits": {
+    "email": 5000
+  },
+  "features": {
+    "users": 15,
+    "landingPage": 20,
+    "inbox": 10
+  }
+}

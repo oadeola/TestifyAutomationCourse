@@ -1,0 +1,10 @@
+{
+  "email": {
+    "body": "Please find attached the report of our last email campaign.",
+    "to": [
+      "jim.suehan@example.com",
+      "jim.suehan@example.com"
+    ]
+  },
+  "language": "en"
+}

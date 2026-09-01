@@ -1,0 +1,21 @@
+
+{
+    "attributes": {
+        "name": "Fintech Global Limited 11",
+        "owner": "6a8f5d77a357045f3c09ca1f",
+        "industry": "IT",
+        "phone_number": "9999911113"
+    },
+    "linkedContactsIds": [
+        1
+    ],
+    "linkedDealsIds": [],
+    "countryCode": 91,
+    "gtm": {
+        "event": "analyticsEvent",
+        "eventCategory": "CrmActivity",
+        "eventAction": "CompanyAction",
+        "eventLabel": "Created",
+        "source": "/companies"
+    }
+}

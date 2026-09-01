@@ -1,0 +1,5 @@
+{
+  "content": "Buy one and get one free: Happy St J!",
+  "name": "St J Promo Code",
+  "sender": "Sharon"
+}

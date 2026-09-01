@@ -1,0 +1,30 @@
+{
+  "name": "Crystal Lunch Task",
+  "taskTypeId": "6a8f5d812d0a5172303d877d",
+  "date": "2021-11-01T17:44:54.668Z",
+  "duration": 600000,
+  "notes": "In communication with client for resolution of queries.",
+  "done": false,
+  "contactsIds": [
+    1,
+    2,
+    3
+  ],
+  "dealsIds": [
+    "61a5ce58c5d4795761045990",
+    "61a5ce58c5d4795761045991",
+    "61a5ce58c5d4795761045992"
+  ],
+  "companiesIds": [
+    "61a5ce58c5d4795761045990",
+    "61a5ce58c5d4795761045991",
+    "61a5ce58c5d4795761045992"
+  ],
+  "reminder": {
+    "value": 10,
+    "unit": "days",
+    "types": [
+      "email"
+    ]
+  }
+}

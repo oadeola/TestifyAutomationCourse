@@ -1,0 +1,8 @@
+{
+  "email": "",
+  "attributes": {
+    "FNAME": ""
+  },
+  "emailBlacklisted": false,
+  "smsBlacklisted": false
+}

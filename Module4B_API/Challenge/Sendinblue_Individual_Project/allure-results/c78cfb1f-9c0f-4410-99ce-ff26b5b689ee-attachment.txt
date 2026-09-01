@@ -1,0 +1,10 @@
+{
+  "sender": {
+    "name": "Luke from MyShop",
+    "email": "adeolaoni.v@gmail.com"
+    
+  },
+  "subject": "Thanks for your purchase !",
+  "templateName": "Order Confirmation - EN",
+  "htmlContent": "The order has been confirmed. Thanks for your purchase"
+}

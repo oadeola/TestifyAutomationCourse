@@ -1,0 +1,4 @@
+{
+  "imageUrl": "https://somedomain.com/image1.jpg",
+  "name": "nature.jpg"
+}

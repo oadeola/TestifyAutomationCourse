@@ -1,0 +1,16 @@
+{
+  "email": "newsletter@mycompany.com",
+  "name": "Newsletter",
+  "ips": [
+    {
+      "domain": "mycompany.com",
+      "ip": "123.98.689.7",
+      "weight": 50
+    },
+    {
+      "domain": "mycompany.com",
+      "ip": "123.98.689.7",
+      "weight": 50
+    }
+  ]
+}

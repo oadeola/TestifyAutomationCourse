@@ -1,0 +1,7 @@
+{
+  "name": "Deal: Connect with client",
+  "attributes": {
+    "deal_owner": "6093d2425a9b436e9519d034",
+    "amount": 12
+  }
+}

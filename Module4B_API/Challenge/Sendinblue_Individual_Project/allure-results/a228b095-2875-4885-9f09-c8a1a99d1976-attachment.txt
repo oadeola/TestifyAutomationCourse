@@ -1,0 +1,7 @@
+{
+  "email": "josh.cruise@example.com",
+  "firstName": "Josh",
+  "lastName": "Cruise",
+  "companyName": "Your Company",
+  "password": "Pa55w0rd65"
+}

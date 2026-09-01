@@ -1,0 +1,4 @@
+{
+  "recipientsType": "openers",
+  "notifyURL": "http://requestb.in/173lyyx1"
+}

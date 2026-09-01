@@ -1,0 +1,8 @@
+{
+  "name": "Meeting Task 4",
+  "taskTypeId": "6a8f5d812d0a5172303d877d",
+  "date": "2021-11-01T17:44:54.668Z",
+  "duration": 600000,
+  "notes": "In communication with client for resolution of queries.",
+  "done": false
+  }

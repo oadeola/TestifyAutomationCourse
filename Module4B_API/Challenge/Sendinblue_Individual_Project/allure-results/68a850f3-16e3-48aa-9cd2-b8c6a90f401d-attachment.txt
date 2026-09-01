@@ -1,0 +1,26 @@
+{
+  "fileUrl": "https://importfile.domain.com",
+  "fileBody": "NAME;SURNAME;EMAIL\nSmith;John;john.smith@example.com\nRoger;Ellie;ellie36@example.com",
+  "jsonBody": [
+    {
+      "ut_7f": "Lorem",
+      "deserunt_df": "Lorem"
+    },
+    {
+      "exercitation_30": "consequat Lorem"
+    }
+  ],
+  "listIds": [
+    76,
+    76
+  ],
+  "notifyUrl": "http://requestb.in/173lyyx1",
+  "newList": {
+    "listName": "ContactImport - 2017-05",
+    "folderId": 2
+  },
+  "emailBlacklist": false,
+  "smsBlacklist": false,
+  "updateExistingContacts": true,
+  "emptyContactsAttributes": true
+}

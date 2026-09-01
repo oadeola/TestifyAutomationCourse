@@ -1,0 +1,45 @@
+{
+  "tag": "Newsletter",
+  "sender": {
+    "name": "Mary from MyShop",
+    "email": "newsletter@myshop.com",
+    "id": 3
+  },
+  "name": "Newsletter - May 2017",
+  "htmlContent": "<!DOCTYPE html> <html> <body> <h1>Confirm you email</h1> <p>Please confirm your email address by clicking on the link below</p> </body> </html>",
+  "htmlUrl": "https://html.domain.com",
+  "scheduledAt": "ipsum",
+  "subject": "Discover the New Collection !",
+  "replyTo": "support@myshop.com",
+  "toField": "{FNAME} {LNAME}",
+  "recipients": {
+    "exclusionListIds": [
+      8,
+      8
+    ],
+    "listIds": [
+      32,
+      32
+    ]
+  },
+  "attachmentUrl": "https://attachment.domain.com",
+  "inlineImageActivation": true,
+  "mirrorActive": true,
+  "recurring": false,
+  "footer": "[DEFAULT_FOOTER]",
+  "header": "[DEFAULT_HEADER]",
+  "utmCampaign": "NL_05_2017",
+  "params": {
+    "tempor__": {}
+  },
+  "sendAtBestTime": true,
+  "abTesting": true,
+  "subjectA": "Discover the New Collection!",
+  "subjectB": "Want to discover the New Collection?",
+  "splitRule": 50,
+  "winnerCriteria": "open",
+  "winnerDelay": 50,
+  "ipWarmupEnable": true,
+  "initialQuota": 3000,
+  "increaseRate": 70
+}

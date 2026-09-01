@@ -1,0 +1,6 @@
+{
+  "transactionalEmail": false,
+  "transactionalSms": false,
+  "marketingAutomation": true,
+  "smsCampaign": true
+}

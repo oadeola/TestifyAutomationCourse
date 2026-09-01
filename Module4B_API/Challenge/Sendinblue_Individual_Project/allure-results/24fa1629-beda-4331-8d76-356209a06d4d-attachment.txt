@@ -1,0 +1,12 @@
+{
+  "tag": "OrderConfirmation1",
+  "sender": {
+    "name": "Lucas from MyShop",
+    "email": "adeolaoni.v@gmail.com"
+   
+  },
+  "templateName": "Order Confirmation - EN",
+  "htmlContent": "The order n°xxxxx has been confirmed. Thanks for your purchase",
+  "subject": "Thanks for your purchase !",
+  "isActive": true
+}

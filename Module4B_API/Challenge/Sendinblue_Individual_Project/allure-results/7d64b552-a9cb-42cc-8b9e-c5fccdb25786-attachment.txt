@@ -1,0 +1,6 @@
+{
+  "companyName": "Test Sub-account",
+  "email": "test-sub@example.com",
+  "timezone": "Europe/Paris",
+  "language": "en"
+}

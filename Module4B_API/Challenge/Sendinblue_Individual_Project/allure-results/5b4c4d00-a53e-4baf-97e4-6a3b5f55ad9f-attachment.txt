@@ -1,0 +1,20 @@
+{
+  "attributes": {
+    "occaecat_3d3": {},
+    "consectetur_5": {}
+  },
+  "emailBlacklisted": false,
+  "smsBlacklisted": true,
+  "listIds": [
+    65,
+    65
+  ],
+  "unlinkListIds": [
+    36,
+    36
+  ],
+  "smtpBlacklistSender": [
+    "2tD@yHGSlOErIdPjXSRRCUPBPdlcwl.lkbz",
+    "IsBKLQFo@XuqjOjVDBfCmvxFMDtrmU.fogq"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "linkContactIds": [
+    1
+  ],
+  "unlinkContactIds": [
+    2
+  ],
+  "linkCompanyIds": [
+    "6a91692ec3d3b6075a32ce54"
+  ],
+  "unlinkCompanyIds": [
+    "6a916c0cc3d3b6075a32cfd3"
+  ]
+}

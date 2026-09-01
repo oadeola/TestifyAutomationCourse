@@ -1,0 +1,13 @@
+{
+  "sender": {
+    "name": "Benson from Houston",
+    "email": "ade156@gmail.com"
+  },
+  "to": [
+    {
+      "email": "ade166@gmail.com",
+      "name": "Ben"
+    }
+  ],
+  "templateId": 69
+}

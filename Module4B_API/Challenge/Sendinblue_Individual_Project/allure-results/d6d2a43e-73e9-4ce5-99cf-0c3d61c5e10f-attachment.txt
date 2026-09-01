@@ -1,0 +1,43 @@
+{
+  "contacts": [
+    {
+      "email": "john@example.com",
+      "id": 31,
+      "attributes": {
+        "FNAME": "John",
+        "LNAME": "Smith"
+      },
+      "emailBlacklisted": false,
+      "smsBlacklisted": true,
+      "listIds": [
+        65
+      ],
+      "unlinkListIds": [
+        36
+      ],
+      "smtpBlacklistSender": [
+        "KcV-PaFnJ@eS.qz",
+        "bbrb5LcqfbXwIx@rSlyeERMpQugHPvTXhPZo.zmg"
+      ]
+    },
+    {
+      "email": "Anna@example.com",
+      "id": 31,
+      "attributes": {
+        "FNAME": "Anna Louise"
+      },
+      "emailBlacklisted": false,
+      "smsBlacklisted": true,
+      "listIds": [
+        65
+      ],
+      "unlinkListIds": [
+        36
+      ],
+      "smtpBlacklistSender": [
+        "0f8VdF@RMbQgSGQHKuglhsPAzZSJcrVpq.njc",
+        "UZzlbOKm7qXU@mvJPCUvDwPNk.lhjd"
+      ]
+    }
+  ]
+}

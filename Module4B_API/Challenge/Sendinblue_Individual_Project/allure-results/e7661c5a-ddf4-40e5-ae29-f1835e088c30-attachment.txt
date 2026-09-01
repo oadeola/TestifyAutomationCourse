@@ -1,0 +1,5 @@
+{
+  "value": "COUNT[BLACKLISTED,BLACKLISTED,<,NOW()]",
+  "category": "global",
+  "type": "text"
+}

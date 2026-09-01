@@ -1,0 +1,6 @@
+{
+  "name": "Crystal Clear Deal for CG",
+  "attributes": {
+    "amount": 18
+  }
+}

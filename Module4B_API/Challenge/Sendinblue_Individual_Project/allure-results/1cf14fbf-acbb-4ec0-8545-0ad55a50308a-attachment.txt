@@ -1,0 +1,15 @@
+{
+  "customContactFilter": {
+    "actionForContacts": "subscribed",
+    "actionForEmailCampaigns": "hardBounces",
+    "actionForSmsCampaigns": "softBounces",
+    "listId": 2,
+    "emailCampaignId": 12,
+    "smsCampaignId": 12
+  },
+  "exportAttributes": [
+    "NAME",
+    "NAME"
+  ],
+  "notifyUrl": "http://requestb.in/173lyyx1"
+}

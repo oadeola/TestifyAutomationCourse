@@ -1,0 +1,6 @@
+{
+  "emails": [
+    "jeff32@example.com",
+    "jim56@example.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "content": "Enter this code:CCJJG8 to validate your account",
+  "recipient": "33689965433",
+  "sender": "MyShop",
+  "type": "marketing",
+  "tag": "accountValidation",
+  "webUrl": "http://requestb.in/173lyyx1",
+  "unicodeEnabled": true
+}

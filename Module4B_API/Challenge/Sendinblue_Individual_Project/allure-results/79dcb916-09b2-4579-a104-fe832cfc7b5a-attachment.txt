@@ -1,0 +1,6 @@
+{
+  "emailTo": [
+    "helen.jurger@example.com",
+    "helen.jurger@example.com"
+  ]
+}
