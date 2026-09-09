@@ -12,8 +12,8 @@ public class StringOperations {
 
         //char at a particular index
         System.out.println(word.charAt(word.length()-5));
-        System.out.println(word.charAt(parse(word.substring(0,4)));
-        System.out.println(word.charAt(word.));
+       // System.out.println(word.charAt(Integer.parseInt(word.substring(0,4))));
+
     }
 
 
