@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class JavaArrays {
@@ -26,5 +27,22 @@ static void main(String[] args){
     System.out.println(Arrays.deepToString(doubleDim));
 
 //ArrayList
+    ArrayList arr = new ArrayList();
+
+    arr.add("test");
+    arr.add(10);
+    System.out.println(arr);
+
+    //ArrayList String only
+    ArrayList<String> arr1 = new ArrayList<String>();
+
+    arr1.add("test1");
+    arr1.add("20");
+    //System.out.println(arr1);
+    //System.out.println(arr1.get(0));
+
+    arr1.remove(0);
+    System.out.println(arr1);
+
 }
 }
