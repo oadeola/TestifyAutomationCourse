@@ -1,15 +1,29 @@
+
+import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class GoogleNavigate {
-    static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver",  "C:\\git\\TestifyAutomationCourse\\Module4D_WebAutomationSelenium\\SeleniumIntro\\src\\chromedriver.exe");
-        //launch browser
-        WebDriver driver = new ChromeDriver();
-        //maximize the browser
-        driver.manage().window().maximize();
-        //navigates to the url
-        driver.get("https://www.google.com/");
 
+    @Test
+    public void navigateToGoogle() {
+
+        // Launch Chrome using Selenium Manager
+        WebDriver driver = new ChromeDriver();
+
+        try {
+            // Maximize browser window
+            driver.manage().window().maximize();
+
+            // Navigate to Google
+            driver.get("https://www.google.com/");
+
+            // Print page title
+            System.out.println("Page title: " + driver.getTitle());
+
+        } finally {
+            // Close the browser
+            driver.quit();
+        }
     }
 }
