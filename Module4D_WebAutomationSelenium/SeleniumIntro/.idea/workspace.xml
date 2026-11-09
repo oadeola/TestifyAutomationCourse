@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3baa9006-13fa-4e51-ad51-2fdf0f5d4929" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GoogleNavigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleNavigate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/Driver_Notes/EULA" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/Driver_Notes/EULA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/Driver_Notes/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/Driver_Notes/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/Driver_Notes/credits.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/Driver_Notes/credits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/Task1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/Task1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/msedgedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/msedgedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/operadriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/operadriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task1/sha512_sum" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task1/sha512_sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/src/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/src/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/src/test/java/CourseraNavigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/src/test/java/CourseraNavigate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/src/test/java/LinkedInNavigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/src/test/java/LinkedInNavigate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task2/src/test/java/YoutubeNavigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task2/src/test/java/YoutubeNavigate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task3/InspectElement1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task3/InspectElement1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task3/InspectElement2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task3/InspectElement2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks/Task3/InspectElement3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Tasks_/Task3/InspectElement3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +42,10 @@
     "Application.GoogleNavigate.executor": "Run",
     "Application.LocationFindbyClassName.executor": "Run",
     "Application.LocationFindbyID.executor": "Run",
-    "Application.LocationFindbyName.executor": "Run",
+    "Application.LocationFindbyName.executor": "Debug",
     "JUnit.Guru99Security.executor": "Run",
+    "JUnit.SauceDemoCheckout.checkoutTest.executor": "Run",
+    "JUnit.SauceDemoCheckout.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -82,6 +55,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/git/TestifyAutomationCourse/Module4D_WebAutomationSelenium/Tasks/src",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -90,8 +65,11 @@
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src" />
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\SeleniumIntro\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src\test\java" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LocationFindbyName">
+  <component name="RunManager" selected="JUnit.SauceDemoCheckout.checkoutTest">
     <configuration name="GoogleNavigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoogleNavigate" />
       <module name="SeleniumIntro" />
@@ -106,8 +84,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SauceDemoCheckout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task5" />
+      <option name="MAIN_CLASS_NAME" value="Task5.SauceDemoCheckout" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceDemoCheckout.checkoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task5" />
+      <option name="MAIN_CLASS_NAME" value="Task5.SauceDemoCheckout" />
+      <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SauceDemoCheckout.checkoutTest" />
+        <item itemvalue="JUnit.SauceDemoCheckout" />
         <item itemvalue="Application.LocationFindbyName" />
         <item itemvalue="Application.GoogleNavigate" />
       </list>
