@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3baa9006-13fa-4e51-ad51-2fdf0f5d4929" name="Changes" comment="" />
+    <list default="true" id="3baa9006-13fa-4e51-ad51-2fdf0f5d4929" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
     "JUnit.SauceDemoCheckout.executor": "Run",
     "JUnit.SauceDemoNavigation.backAndForwardTest.executor": "Run",
     "JUnit.TestifyLinkedInTest.testifyLinkedInTest.executor": "Run",
+    "JUnit.ToolsQAPopupTest.closePopupAndOpenTutorials.executor": "Run",
     "JUnit.WorldWeatherTest.executor": "Run",
     "JUnit.WorldWeatherTest.getWeatherForecast.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -77,7 +80,7 @@
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ToolsQAPopupTest.closePopupAndOpenTutorials">
+  <component name="RunManager" selected="TestNG.GoogleMcDonaldsTest.mcdonaldsButtonColourTest">
     <configuration name="DropdownSelectionTest.selectDropdownOptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -89,22 +92,6 @@
       <option name="PACKAGE_NAME" value="Task13" />
       <option name="MAIN_CLASS_NAME" value="Task13.DropdownSelectionTest" />
       <option name="METHOD_NAME" value="selectDropdownOptions" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JQueryDialogTest.closeDialogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Task10" />
-      <option name="MAIN_CLASS_NAME" value="Task10.JQueryDialogTest" />
-      <option name="METHOD_NAME" value="closeDialogTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,13 +145,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GoogleMcDonaldsTest.mcdonaldsButtonColourTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task15" />
+      <option name="MAIN_CLASS_NAME" value="Task15.GoogleMcDonaldsTest" />
+      <option name="METHOD_NAME" value="mcdonaldsButtonColourTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleMcDonaldsTest.mcdonaldsButtonColourTest" />
         <item itemvalue="JUnit.ToolsQAPopupTest.closePopupAndOpenTutorials" />
         <item itemvalue="JUnit.DropdownSelectionTest.selectDropdownOptions" />
         <item itemvalue="JUnit.JQueryResizeTest.resizeBoxTest" />
         <item itemvalue="JUnit.TestifyLinkedInTest.testifyLinkedInTest" />
-        <item itemvalue="JUnit.JQueryDialogTest.closeDialogTest" />
       </list>
     </recent_temporary>
   </component>
