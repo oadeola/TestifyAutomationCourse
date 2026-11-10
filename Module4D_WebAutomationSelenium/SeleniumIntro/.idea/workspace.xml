@@ -45,6 +45,7 @@
     "Application.LocationFindbyName.executor": "Debug",
     "JUnit.CreateAccountTest.createAccountButtonTest.executor": "Run",
     "JUnit.Guru99Security.executor": "Run",
+    "JUnit.JQueryDialogTest.closeDialogTest.executor": "Run",
     "JUnit.SauceDemoCSSCheckout.checkoutTest.executor": "Run",
     "JUnit.SauceDemoCSSCheckout.executor": "Run",
     "JUnit.SauceDemoCheckout.checkoutTest.executor": "Run",
@@ -75,7 +76,7 @@
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SauceDemoNavigation.backAndForwardTest">
+  <component name="RunManager" selected="JUnit.JQueryDialogTest.closeDialogTest">
     <configuration name="CreateAccountTest.createAccountButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -92,17 +93,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SauceDemoCSSCheckout.checkoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JQueryDialogTest.closeDialogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task6.*" />
+          <option name="PATTERN" value="Task10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Task6" />
-      <option name="MAIN_CLASS_NAME" value="Task6.SauceDemoCSSCheckout" />
-      <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="PACKAGE_NAME" value="Task10" />
+      <option name="MAIN_CLASS_NAME" value="Task10.JQueryDialogTest" />
+      <option name="METHOD_NAME" value="closeDialogTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JQueryDialogTest.closeDialogTest" />
         <item itemvalue="JUnit.SauceDemoNavigation.backAndForwardTest" />
         <item itemvalue="JUnit.CreateAccountTest.createAccountButtonTest" />
         <item itemvalue="JUnit.WorldWeatherTest.getWeatherForecast" />
         <item itemvalue="JUnit.WorldWeatherTest" />
-        <item itemvalue="JUnit.SauceDemoCSSCheckout.checkoutTest" />
       </list>
     </recent_temporary>
   </component>
