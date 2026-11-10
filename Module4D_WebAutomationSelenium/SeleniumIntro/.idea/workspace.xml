@@ -51,6 +51,7 @@
     "JUnit.SauceDemoCheckout.checkoutTest.executor": "Run",
     "JUnit.SauceDemoCheckout.executor": "Run",
     "JUnit.SauceDemoNavigation.backAndForwardTest.executor": "Run",
+    "JUnit.TestifyLinkedInTest.testifyLinkedInTest.executor": "Run",
     "JUnit.WorldWeatherTest.executor": "Run",
     "JUnit.WorldWeatherTest.getWeatherForecast.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -76,7 +77,7 @@
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JQueryDialogTest.closeDialogTest">
+  <component name="RunManager" selected="JUnit.TestifyLinkedInTest.testifyLinkedInTest">
     <configuration name="CreateAccountTest.createAccountButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -125,17 +126,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorldWeatherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestifyLinkedInTest.testifyLinkedInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task7.*" />
+          <option name="PATTERN" value="Task11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Task7" />
-      <option name="MAIN_CLASS_NAME" value="Task7.WorldWeatherTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Task11" />
+      <option name="MAIN_CLASS_NAME" value="Task11.TestifyLinkedInTest" />
+      <option name="METHOD_NAME" value="testifyLinkedInTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestifyLinkedInTest.testifyLinkedInTest" />
         <item itemvalue="JUnit.JQueryDialogTest.closeDialogTest" />
         <item itemvalue="JUnit.SauceDemoNavigation.backAndForwardTest" />
         <item itemvalue="JUnit.CreateAccountTest.createAccountButtonTest" />
         <item itemvalue="JUnit.WorldWeatherTest.getWeatherForecast" />
-        <item itemvalue="JUnit.WorldWeatherTest" />
       </list>
     </recent_temporary>
   </component>
