@@ -49,6 +49,7 @@
     "JUnit.SauceDemoCSSCheckout.executor": "Run",
     "JUnit.SauceDemoCheckout.checkoutTest.executor": "Run",
     "JUnit.SauceDemoCheckout.executor": "Run",
+    "JUnit.SauceDemoNavigation.backAndForwardTest.executor": "Run",
     "JUnit.WorldWeatherTest.executor": "Run",
     "JUnit.WorldWeatherTest.getWeatherForecast.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -74,7 +75,7 @@
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CreateAccountTest.createAccountButtonTest">
+  <component name="RunManager" selected="JUnit.SauceDemoNavigation.backAndForwardTest">
     <configuration name="CreateAccountTest.createAccountButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -91,21 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SauceDemoCSSCheckout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Task6" />
-      <option name="MAIN_CLASS_NAME" value="Task6.SauceDemoCSSCheckout" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SauceDemoCSSCheckout.checkoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -117,6 +103,22 @@
       <option name="PACKAGE_NAME" value="Task6" />
       <option name="MAIN_CLASS_NAME" value="Task6.SauceDemoCSSCheckout" />
       <option name="METHOD_NAME" value="checkoutTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceDemoNavigation.backAndForwardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task9" />
+      <option name="MAIN_CLASS_NAME" value="Task9.SauceDemoNavigation" />
+      <option name="METHOD_NAME" value="backAndForwardTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SauceDemoNavigation.backAndForwardTest" />
         <item itemvalue="JUnit.CreateAccountTest.createAccountButtonTest" />
         <item itemvalue="JUnit.WorldWeatherTest.getWeatherForecast" />
         <item itemvalue="JUnit.WorldWeatherTest" />
         <item itemvalue="JUnit.SauceDemoCSSCheckout.checkoutTest" />
-        <item itemvalue="JUnit.SauceDemoCSSCheckout" />
       </list>
     </recent_temporary>
   </component>
