@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3baa9006-13fa-4e51-ad51-2fdf0f5d4929" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3baa9006-13fa-4e51-ad51-2fdf0f5d4929" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <recent name="C:\git\TestifyAutomationCourse\Module4D_WebAutomationSelenium\Tasks\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DropdownSelectionTest.selectDropdownOptions">
+  <component name="RunManager" selected="JUnit.ToolsQAPopupTest.closePopupAndOpenTutorials">
     <configuration name="DropdownSelectionTest.selectDropdownOptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -128,22 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SauceDemoNavigation.backAndForwardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Task9" />
-      <option name="MAIN_CLASS_NAME" value="Task9.SauceDemoNavigation" />
-      <option name="METHOD_NAME" value="backAndForwardTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestifyLinkedInTest.testifyLinkedInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <extension name="coverage">
@@ -160,13 +142,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToolsQAPopupTest.closePopupAndOpenTutorials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task14" />
+      <option name="MAIN_CLASS_NAME" value="Task14.ToolsQAPopupTest" />
+      <option name="METHOD_NAME" value="closePopupAndOpenTutorials" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ToolsQAPopupTest.closePopupAndOpenTutorials" />
         <item itemvalue="JUnit.DropdownSelectionTest.selectDropdownOptions" />
         <item itemvalue="JUnit.JQueryResizeTest.resizeBoxTest" />
         <item itemvalue="JUnit.TestifyLinkedInTest.testifyLinkedInTest" />
         <item itemvalue="JUnit.JQueryDialogTest.closeDialogTest" />
-        <item itemvalue="JUnit.SauceDemoNavigation.backAndForwardTest" />
       </list>
     </recent_temporary>
   </component>
